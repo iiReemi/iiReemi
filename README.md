@@ -11,7 +11,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iiReemi&show_icons=true&theme=dark)
 
-## Main Stacks
+## Main
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ed-HTML" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
