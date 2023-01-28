@@ -1,6 +1,6 @@
 
 
-**iiReemi/iiReemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **iiReemi/iiReemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Um pouquinho sobre mim:
 
@@ -13,8 +13,7 @@ Um pouquinho sobre mim:
 
 ## Olá me chamo Ed, sou estudante de ADS e apaixonado por tecnologia!
 
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?iiReemi=anuraghazra&show_icons=true&theme=dark)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ed-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
