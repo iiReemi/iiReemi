@@ -1,6 +1,7 @@
 
 
 <!-- **iiReemi/iiReemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+## Olá me chamo Ed, sou estudante de ADS e apaixonado por tecnologia!
 
 Um pouquinho sobre mim:
 
@@ -9,9 +10,6 @@ Um pouquinho sobre mim:
 - 👯 A procura de um Estágio ou vaga Júnior
 - 😃 Ele/dele
 - ⚡ "Se JS fosse um País, função seria sua capital."
-
-
-## Olá me chamo Ed, sou estudante de ADS e apaixonado por tecnologia!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iiReemi&show_icons=true&theme=dark)
 
