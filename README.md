@@ -1,18 +1,15 @@
 
-<!--
+
 **iiReemi/iiReemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Um pouquinho sobre mim:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- - 🔭 I’m currently working on -->
+- 🌱 Estudando Typescript
+- 👯 A procura de um Estágio ou vaga Júnior
+- 😃 Ele/dele
+- ⚡ "Se JS fosse um País, função seria sua capital."
+
 
 ## Olá me chamo Ed, sou estudante de ADS e apaixonado por tecnologia!
 
