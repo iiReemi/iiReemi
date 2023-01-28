@@ -4,10 +4,10 @@
 ## Hello World, i'am Edevaldo Lima or Ed
 
 <!-- - 🔭 I’m currently working on -->
-- 🌱 Estudando Typescript
-- 👯 A procura de um Estágio ou vaga Júnior
-- 😃 Ele/dele
-- ⚡ "Se JS fosse um País, função seria sua capital."
+- 🌱 Studying Typescript
+- 👯 Looking for Junior Opportunity
+- 😃 I believe with good ideas have can transform the reality
+- ⚡ "If Javascript is a country, the function is its capital city."
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iiReemi&show_icons=true&theme=dark)
 
