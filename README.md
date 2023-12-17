@@ -28,7 +28,7 @@
 ## Learning
 <div style="display: inline_block"><br>
   <img align="center" alt="Ed-TS" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Ed-NestJS" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
+  <img align="center" alt="Ed-NestJS" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-plain.svg">
 </div>
 
 ## Contact
