@@ -4,8 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Ed+;I'm+20+years+old;I'm+from+Brazil;I'm+Fullstack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <!-- - 🔭 I’m currently working on -->
-- 🌱 Studying Typescript
-- 👯 Looking for Junior Opportunity
+- 🌱 Studying Automated Tests
+- 👯 I'm fullstack developer
 - 😃 I believe with good ideas have can transform the reality
 - ⚡ "If Javascript is a country, the function is its capital city."
 
