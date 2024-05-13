@@ -9,7 +9,7 @@
 - 😃 I believe with good ideas have can transform the reality
 - ⚡ "If Javascript is a country, the function is its capital city."
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iiReemi&show_icons=true&theme=dark)
+##![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iiReemi&show_icons=true&theme=dark)
 
 ## Main
 
