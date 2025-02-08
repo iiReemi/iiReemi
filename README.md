@@ -1,11 +1,11 @@
 
 
 <!-- **iiReemi/iiReemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Ed+;I'm+20+years+old;I'm+from+Brazil;I'm+Fullstack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Ed+;I'm+21+years+old;I'm+from+Brazil;I'm+Software+Engineer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <!-- - 🔭 I’m currently working on -->
-- 🌱 Studying about Design System
-- 👯 I'm Project Manager
+- 🌱 Studying Go Lang
+- 👯 I'm Software Engineer
 - 😃 I believe with good ideas with good devs have can transform the reality
 - ⚡ "If Javascript is a country, the function is its capital city."
 
