@@ -8,9 +8,6 @@
   <a href="mailto:eddie.limaa@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=flat-square&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/ej.limaa" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white">
-  </a>
 </p>
 
 ---
