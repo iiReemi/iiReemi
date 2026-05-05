@@ -1,37 +1,38 @@
+<h1 align="center">Ed Lima</h1>
+<p align="center">Software Engineer · Brazil</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/edlimaa" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:eddie.limaa@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/ej.limaa" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white">
+  </a>
+</p>
 
-<!-- **iiReemi/iiReemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Ed+;I'm+21+years+old;I'm+from+Brazil;I'm+Software+Engineer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+---
 
-<!-- - 🔭 I’m currently working on -->
-- 🌱 Studying Go Lang
-- 👯 I'm Software Engineer
-- 😃 I believe with good ideas with good devs have can transform the reality
-- ⚡ "If Javascript is a country, the function is its capital city."
-
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iiReemi&show_icons=true&theme=dark)-->
-
-## Main
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ed-HTML" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ed-CSS" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ed-JS" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ed-Node" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Ed-NestJS" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg">
-  <img align="center" alt="Ed-React" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Ed-NextJS" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Ed-Docker" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="Ed-Linux" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="Ed-MySQL" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Ed-Redis" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">
-  <img align="center" alt="Ed-Postgresql" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Ed-MongoDB" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="30" width="30" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="30" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" width="30" title="Go"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="30" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" width="30" title="NestJS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="30" width="30" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" width="30" title="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="30" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="30" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="30" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="30" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" width="30" title="Redis"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="30" title="Linux"/>
 </div>
 
-## Contact
-<div style="display: inline_block"><br>
-  <a href="https://www.instagram.com/ej.limaa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:eddie.limaa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/edlimaa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<br>
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiReemi&layout=compact&theme=dark&hide_border=true"/>
 </div>
